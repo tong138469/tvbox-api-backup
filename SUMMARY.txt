@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261119_065217
+TVBox 接口抓取报告  20261120_065548
 ==============================================================
 
 [裤佬线路] okhttp/3.15
@@ -26,7 +26,7 @@ TVBox 接口抓取报告  20261119_065217
   文件: tvbox/饭太硬2线.json
   成功URL: http://www.饭太硬.cc/tv
 
-[饭太硬3线] okhttp/4.9.3
+[饭太硬3线] okhttp/3.15
   状态: JSON
   文件: tvbox/饭太硬3线.json
   成功URL: http://www.饭太硬.art/tv
@@ -126,10 +126,10 @@ TVBox 接口抓取报告  20261119_065217
   文件: tvbox/摸鱼5线.json
   成功URL: http://www.y456y.com
 
-[摸鱼6线] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[摸鱼6线] okhttp/3.15
+  状态: JSON
+  文件: tvbox/摸鱼6线.json
+  成功URL: http://fish.y456y.com
 
 [南风] okhttp/3.15
   状态: JSON
